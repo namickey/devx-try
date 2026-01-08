@@ -8,6 +8,6 @@ https://zenn.dev/chiji/articles/a8eaa9ed1d042c
 2025年に使い始めて良かったツール10選  
 https://qiita.com/takumi3488/items/3e398ae230e94144a20e  
 
-
-
+CRUD実装の重複を減らすためのオープンソースツール10選  
+https://qiita.com/KikiYuan/items/31e5d5d866a2e50ebcb6  
 
